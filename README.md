@@ -1,3 +1,2 @@
 # ssid-rotation
-Generate random SSIDs with hostapd WTF
-test
+Generate random SSIDs with hostapd
